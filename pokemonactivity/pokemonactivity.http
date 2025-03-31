@@ -1,0 +1,6 @@
+@pokemonactivity_HostAddress = http://localhost:5113
+
+GET {{pokemonactivity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
